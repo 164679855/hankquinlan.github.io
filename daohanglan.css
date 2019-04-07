@@ -1,0 +1,90 @@
+.hypertxt ul 
+			{
+				
+				height: 100px;
+				margin-left: 600px;
+				
+			}
+			.hypertxt ul li 
+			{
+				list-style-type: none;
+				float:left;
+				
+			}
+			.hypertxt ul li a 
+			{
+				text-decoration: none;
+				font-size: 20px;
+				font-family:arial;
+				color:gray;
+				text-align: center;
+				margin: 200px;
+				display: block;
+				width: 200px;
+				height: 50px;
+				line-height: 100px;
+				margin: 0px 0px;
+			
+			}
+			.hypertxt ul li a:hover
+			{
+				color: black;
+				text-decoration: underline;
+			}
+.topfont
+{
+	font-family: "comic sans ms";
+	font-size: 40px;
+	width: 170px;
+	float: left;
+	margin-left: 100px;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	
+}
+
+.second img
+{
+	width: 250px;
+	height: 250px;
+	
+}
+
+.third
+{
+	font-size: 30px;
+	text-align: center;
+	height: 50px;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
+
+.festival a
+{
+	text-decoration: none;
+	color: gray;
+}
+.festival a:hover
+{
+	color: black;
+	text-decoration: underline;
+}
+
+.national img
+{
+	height: 300px;
+	width: 300px;
+}
+
+.daohang a
+{
+	color: gray;
+	text-decoration: none;
+}
+.daohang a:hover
+{
+	color: black;
+	text-decoration: underline;
+}
